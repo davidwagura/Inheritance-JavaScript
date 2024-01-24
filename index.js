@@ -22,5 +22,8 @@ class Manager extends Employee {
 }
 
 const employee1 = new Manager("michael", 25, "Male", 40000);
+const employee2 = new Manager("Joy", 23, "Female", 40000);
+
 
 console.log(employee1);
+console.log(employee2);
